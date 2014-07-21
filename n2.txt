@@ -1,6 +1,5 @@
 n2 v1
 n2 v2
 b11up00
-b11up11
-b12up11
 b12up22
+b21up11
