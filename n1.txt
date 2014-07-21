@@ -7,6 +7,5 @@ v6
 mv1
 pv591
 pv592
-pv672
 b1up1
 b12up11
